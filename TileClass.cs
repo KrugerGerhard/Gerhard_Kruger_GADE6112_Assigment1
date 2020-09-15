@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+////Question 2.1
 namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
 {
     //Class that serves as the base for Tiles
