@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
 {
-    //Class inherits Tile
+    //ObstacleClass inherits it's information from TileClass
     class ObstacleClass : TileClass
     {
         //Constructor
