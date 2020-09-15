@@ -40,6 +40,6 @@ namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
                 return true;
             }
         }
-//Sorry Kirsten, I called a fat GG with Question 3, Hella sleep deprived and I literally can't anymore. Have fun marking and I'm extremely sorry, my bad:) 
+//Sorry Kirsten, I called a fat GG with Question 3 & 4, Hella sleep deprived and I literally can't anymore. Have fun marking and I'm extremely sorry, my bad:) 
     }
 }
