@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Question 2.2 & 2.3
 namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
 {
     abstract class CharacterClass : TileClass
@@ -86,12 +86,12 @@ namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
             int rangeLimit = 1;
             if (DistanceTo(target) == rangeLimit)
             {
-                //In range
+                //Target within rangefinder radius
                 return true;
             }
             else
             {
-                //Out of range
+                //Target out of rangefinder raduis
                 return false;
             }
         }
