@@ -123,6 +123,11 @@ namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
                     this.x++;
                     break;
             }
-        }
+          }
+          //Return Move Method
+        public abstract Movement ReturnMove(Movement move = 0);
+
+        //String Display Method
+        public abstract override string ToString();
     }
 }
