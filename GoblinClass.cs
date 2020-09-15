@@ -21,9 +21,9 @@ namespace Gerhard_Kruger_19343413_GADE6112_Assigment1_GoblinSlayer
             //Initialising variable. Default = no movement
             //Movement move = 0;
 
-            //Randomise 0 - 4 (4 means that the enemy does not move)
+            //Randomise 0 - 4 (4 = no enemy movement)
             int randomNum = rnd.Next(0, 4 + 1);
-            //REFERENCE
+            
             while (!(vision[0].GetType().Name.Equals(nameof(EmptyTileClass))))
             {
                 randomNum = rnd.Next(1, 4 + 1);
